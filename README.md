@@ -11,6 +11,7 @@ Introdução a utilização do banco de dados Amazon DynamoDB
  
   - Fazer a configuração de acesso pelo prompt
   - (Não esquecer de selecionar a região)
+  - (Prestar atenção para que os arquivos estejam na pasta de execução dos comandos)
   - Executar primeiro: aws configure
  
 ## Comandos para execução do experimento:
